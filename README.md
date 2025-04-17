@@ -1,5 +1,5 @@
-# WebCam_CCTV_recorder_v1
-Lightweight motion-triggered surveillance tool with audio/video recording, cloud upload, and Telegram alerts. Python-powered and plug-and-play ready.
+# WebCam-CCTV-recorder-v1
+Lightweight motion-triggered surveillance tool with audio/video recording using webcam, WebCam CCTV recorder, cloud upload, and Telegram alerts. Python-powered and plug-and-play ready.
 You can choose to:
 - Save files locally
 - Upload recordings to Google Cloud Storage
